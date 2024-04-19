@@ -1,4 +1,4 @@
-
+![alt text](image.png)
 
 # Consultas sobre una tabla
 
